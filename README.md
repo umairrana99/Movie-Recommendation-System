@@ -109,7 +109,7 @@ Four panels covering:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/movie-recommendation-system.git
+git clone https://github.com/<umairrana99>/movie-recommendation-system.git
 cd movie-recommendation-system
 
 # 2. Install dependencies
@@ -163,7 +163,7 @@ jupyter>=1.0.0
 
 ## 👤 Author
 
-**[Your Name]**
+**[Umair Ali]**
 [LinkedIn](www.linkedin.com/in/umair-ali99) · [GitHub](https://github.com/umairrana99)
 
 ---
